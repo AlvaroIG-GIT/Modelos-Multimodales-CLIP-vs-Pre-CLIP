@@ -1,0 +1,109 @@
+[
+  {
+    "image": "Dataset/Aves/Pajaro1.jpg",
+    "category": "Aves",
+    "caption": "A resting hawk observing the surroundings"
+  },
+  {
+    "image": "Dataset/Aves/Pajaro2.jpg",
+    "category": "Aves",
+    "caption": "The statue representing a Dodo"
+  },
+  {
+    "image": "Dataset/Aves/Pajaro3.jpg",
+    "category": "Aves",
+    "caption": "A vulture about to fly"
+  },
+  {
+    "image": "Dataset/Aves/Pajaro4.jpg",
+    "category": "Aves",
+    "caption": "A hummingbird resting on a branch"
+  },
+  {
+    "image": "Dataset/Aves/Pajaro5.jpg",
+    "category": "Aves",
+    "caption": "A parrot resting on a branch"
+  },
+
+   {
+    "image": "Dataset/Felinos/Felino1.jpg",
+    "category": "Felinos",
+    "caption": "A cat standing straight on a rock"
+  },
+  {
+    "image": "Dataset/Felinos/Felino2.jpg",
+    "category": "Felinos",
+    "caption": "A lion walking"
+  },
+  {
+    "image": "Dataset/Felinos/Felino3.jpg",
+    "category": "Felinos",
+    "caption": "A tiger resting"
+  },
+  {
+    "image": "Dataset/Felinos/Felino4.jpg",
+    "category": "Felinos",
+    "caption": "A cheetah running"
+  },
+  {
+    "image": "Dataset/Felinos/Felino5.jpg",
+    "category": "Felinos",
+    "caption": "A saber-toothed cat stalking"
+  },
+
+  {
+    "image": "Dataset/Peces/Pez1.jpg",
+    "category": "Peces",
+    "caption": "A calm shark"
+  },
+  {
+    "image": "Dataset/Peces/Pez2.jpg",
+    "category": "Peces",
+    "caption": "A resting whale"
+  },
+  {
+    "image": "Dataset/Peces/Pez3.jpg",
+    "category": "Peces",
+    "caption": "A swordfish jumping"
+  },
+  {
+    "image": "Dataset/Peces/Pez4.jpg",
+    "category": "Peces",
+    "caption": "A happy dolphin swimming"
+  },
+  {
+    "image": "Dataset/Peces/Pez5.jpg",
+    "category": "Peces",
+    "caption": "A breaching killer whale"
+  },
+
+  {
+    "image": "Dataset/Reptiles/Reptil1.jpg",
+    "category": "Reptiles",
+    "caption": "A salamander walking"
+  },
+  {
+    "image": "Dataset/Reptiles/Reptil2.jpg",
+    "category": "Reptiles",
+    "caption": "A lizard observing"
+  },
+  {
+    "image": "Dataset/Reptiles/Reptil3.jpg",
+    "category": "Reptiles",
+    "caption": "A crocodile showing its jaws"
+  },
+  {
+    "image": "Dataset/Reptiles/Reptil4.jpg",
+    "category": "Reptiles",
+    "caption": "A chameleon camouflaging on a branch"
+  },
+  {
+    "image": "Dataset/Reptiles/Reptil5.jpg",
+    "category": "Reptiles",
+    "caption": "A snake stalking"
+  }
+]
+
+
+
+
